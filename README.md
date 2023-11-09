@@ -45,6 +45,12 @@ O código monitora os sensores continuamente e realiza as seguintes operações,
 - Porta MQTT: 1883
 - Tópicos MQTT: "/TEF/hxh/cmd" (Subscribe) e "/TEF/hxh/attrs", "/TEF/hxh/attrs/humidity", "/TEF/hxh/attrs/temperature", "/TEF/hxh/attrs/light" (Publish)
 
+## Bibliotecas Usadas:
+
+- DHT sensor library
+- PubSubClient
+- LiquidCrystal I2C
+
 ## Instruções de Uso:
 
 1. Carregue o código no seu ESP32.
