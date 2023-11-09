@@ -115,5 +115,4 @@ O código monitora os sensores continuamente e realiza as seguintes operações,
 
 ## Simulação:
 
-Você pode simular este projeto no Wokwi usando o seguinte link: [Simulação no Wokwi](https://wokwi.com/projects/378689163018348545)
-
+Você pode simular este projeto no Wokwi usando o seguinte link: [Simulação no Wokwi](https://wokwi.com/projects/380871723922614273).
