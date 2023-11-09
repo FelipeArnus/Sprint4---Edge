@@ -1,3 +1,5 @@
+//Aqui esta o codigo mas tambem é possivel encontra-lo via o link no Read-Me ((simulador no wokwi))
+
 #include <Arduino.h>
 #include <LiquidCrystal_I2C.h>
 #include <DHT.h>
